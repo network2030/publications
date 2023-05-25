@@ -8,4 +8,4 @@ Chunsheng Wang, CENI Test and Service Management Center, wangchunsheng@fnii.cn.
 
   [CENI Carrier Grade Minimalist Multicast Networking Test Report](https://raw.githubusercontent.com/network2030/publications/main/CENI_Carrier_Grade_Minimalist_Multicast_Networking_Test_Report.pdf)
 
-  [CENI DIP Networking Test Report]([CENI Carrier Grade Minimalist Multicast Networking Test Report](https://raw.githubusercontent.com/network2030/publications/main/CENI_DIP_Networking_Test_Report.pdf)
+  [CENI DIP Networking Test Report](CENI Carrier Grade Minimalist Multicast Networking Test Report](https://raw.githubusercontent.com/network2030/publications/main/CENI_DIP_Networking_Test_Report.pdf)
