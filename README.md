@@ -1,4 +1,3 @@
-# publications
 Repository for publications about network 2030 technologies.
 
 The following documents are from CENI, https://ceni.org.cn.
